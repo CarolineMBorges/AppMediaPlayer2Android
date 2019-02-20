@@ -1,0 +1,4 @@
+Este aplicativo mostra o uso do MediaPlayer. Através de um SeekBar o usuário pode controlar o volume.
+O projeto possui a função executarSom, pausarMusica e pararMusica. Também há um controle de recursos 
+quando o usuário saí do aplicativo, configurado em onDestroy. Caso o usuário feche o aplicativo e não 
+pare ou pause a música, a configuração de onStop fará isso.
